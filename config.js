@@ -38,8 +38,8 @@ const config = {
 
     // Final Celebration
     celebration: {
-        title: "Yay! I'm the luckiest person...",
-        message: "Now come get your gift...",
+        title: "Yay! I'm the luckiest person!! Will you be my valentine my love?? I already miss you more than anything. Wish you were still beside me. Let's have a special Feburary 14th togehter",
+        message: "Now come get your gift in 2 weeks!!",
         emojis: "🎁💖🤗💝💋❤️💕"
     },
 
